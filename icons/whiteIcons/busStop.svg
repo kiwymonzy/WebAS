@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-busStop">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="busStop" clip-path="url(#clip-busStop)">
+    <g id="bus-svgrepo-com" transform="translate(-10.723 -10.723)">
+      <g id="Group_1" data-name="Group 1" transform="translate(11 11)">
+        <path id="Path_1" data-name="Path 1" d="M30.513,78.5a2.965,2.965,0,0,0-2.8-2H17.737a2.965,2.965,0,0,0-2.8,2A3.871,3.871,0,0,0,11,82.3v.531a.976.976,0,0,0,1.952,0V82.3a1.84,1.84,0,0,1,1.818-1.852v5.885h15.9V80.452A1.843,1.843,0,0,1,32.493,82.3v.531a.976.976,0,0,0,1.952,0V82.3A3.834,3.834,0,0,0,30.513,78.5Zm-6.838,2.412h-1.9a.976.976,0,1,1,0-1.952h1.9a.976.976,0,1,1,0,1.952Z" transform="translate(-11 -73.366)" stroke="#000" stroke-width="0.5"/>
+        <path id="Path_2" data-name="Path 2" d="M189.076,12.952h4.546a.976.976,0,1,0,0-1.952h-4.546a.976.976,0,0,0,0,1.952Z" transform="translate(-179.626 -11)" stroke="#000" stroke-width="0.5"/>
+        <path id="Path_3" data-name="Path 3" d="M89.8,326.216a2.964,2.964,0,0,0,2.737,2.952v1.278a.976.976,0,1,0,1.952,0v-1.263h6.526v1.263a.976.976,0,1,0,1.952,0v-1.278a2.971,2.971,0,0,0,2.737-2.952V322.9H89.8Zm11.426-.732a1.077,1.077,0,1,1-1.077,1.077A1.078,1.078,0,0,1,101.226,325.484Zm-6.948,0A1.077,1.077,0,1,1,93.2,326.56,1.078,1.078,0,0,1,94.279,325.484Z" transform="translate(-86.03 -307.976)" stroke="#000" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
